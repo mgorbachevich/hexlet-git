@@ -1,1 +1,1 @@
-people
+Haskell Curry
